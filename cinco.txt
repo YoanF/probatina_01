@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 La rosa de Guadalupe, contara ahora con chicote
+=======
+La rosa de Guadalupe, va a tener otra temporada.
+>>>>>>> desarrollo
